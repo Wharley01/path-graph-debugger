@@ -14,7 +14,7 @@
   "main": "background.js",
   "dependencies": {
     "@__path/graph": "^2.2.10",
-    "axios": "^0.19.0",
+    "axios": "^0.21.2",
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "jsoneditor": "^9.0.0",
