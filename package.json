@@ -17,7 +17,7 @@
     "axios": "^0.19.0",
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
-    "jsoneditor": "^9.0.0",
+    "jsoneditor": "^9.5.6",
     "prismjs": "^1.19.0",
     "vue": "^2.6.10",
     "vue-chartist": "^2.2.1",
